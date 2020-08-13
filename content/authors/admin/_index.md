@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ualberta.ca/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Stephen Styles has studied fields in mathematical statistics and machine learning. During his studies, Stephen has trained as a statistical consultant where he has conducted analysis on varying topics. This year, Stephen will finish his MSc in Statistics at the University of Alberta, completing his research in stochastic processes.
 
 interests:
 - Statistics/BioStatistics
@@ -37,16 +37,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "sjstyles@ualberta.ca".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/stephenstyles
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
